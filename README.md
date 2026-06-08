@@ -1,4 +1,4 @@
-# How to Bypass Amazon CAPTCHA When Scraping
+# How to Handle Amazon CAPTCHA When Scraping
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/amazon-scraper/refs/heads/main/Scrape%20Amazon%20data%20with%20Web%20Scraper%20API.png)](https://oxylabs.io/products/scraper-api/ecommerce/amazon?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=how-to-bypass-amazon-captcha-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
