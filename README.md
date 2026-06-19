@@ -60,7 +60,7 @@ with open('without_captcha.json', 'w') as file:
 
 ## Final word
 
-Follow our technical [documentation](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/amazon) for all available API parameters.
+Follow our technical [documentation](https://developers.oxylabs.io/api-targets/e-commerce/amazon) for all available API parameters.
 
 In case of any issues, please contact us at support@oxylabs.io
 
