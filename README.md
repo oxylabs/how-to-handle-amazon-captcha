@@ -1,6 +1,6 @@
 # How to Handle Amazon CAPTCHA When Scraping
 
-[![Oxylabs promo code](https://github.com/oxylabs/how-to-handle-amazon-captcha/blob/main/15-How-to-Handle-Amazon-CAPTCHA-When-Scraping.png)](https://oxylabs.io/products/scraper-api/ecommerce/amazon?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=how-to-handle-amazon-captcha-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://github.com/oxylabs/how-to-handle-amazon-captcha/blob/main/15-How-to-Handle-Amazon-CAPTCHA-When-Scraping.png)](https://oxylabs.io/products/scraper-api/ecommerce/amazon?utm_source=github&utm_medium=referral&utm_content=how-to-handle-amazon-captcha&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-Take a look at the process of handling CAPTCHAs when collecting public data from Amazon with [Amazon Scraper API](https://oxylabs.io/products/scraper-api/ecommerce/amazon) (**one-week free trial**). You can find the full guide on our [blog](https://oxylabs.io/blog/bypass-amazon-captcha).
+Take a look at the process of handling CAPTCHAs when collecting public data from Amazon with [Amazon Scraper API](https://oxylabs.io/products/scraper-api/ecommerce/amazon?utm_source=github&utm_medium=referral&utm_content=how-to-handle-amazon-captcha&groupid=877) (**one-week free trial**). You can find the full guide on our [blog](https://oxylabs.io/blog/bypass-amazon-captcha?utm_source=github&utm_medium=referral&utm_content=how-to-handle-amazon-captcha&groupid=877).
 
 ## Setting up a simple scraper
 
